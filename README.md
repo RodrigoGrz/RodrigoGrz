@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/RodrigoGrz">
+https://github.com/RodrigoGrz"
 
 # Rodrigo Grzegorczyk
 
