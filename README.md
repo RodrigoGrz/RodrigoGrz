@@ -11,4 +11,4 @@ Sou um estudante de JavaScript tanto na parte web quanto mobile :computer:
  <br/> :blush: &nbsp; Posso te ajudar com o básico apenas. (Mas se não souber pesquiso e te ajudo :wink:)
  <br/> :computer: &nbsp; Meus aprendizado: JavaScript (básico), Python (básico)
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Fut, Ler e um Netflix
- <br/> :email: &nbsp; Entre em contato comigo: (https://www.linkedin.com/in/rodrigo-grzegorczyk-0046981ab/)
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Rodrigo%20Grzegorczyk-blue)](https://www.linkedin.com/in/rodrigo-grzegorczyk-0046981ab/)
