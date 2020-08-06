@@ -10,5 +10,5 @@ Sou um estudante de JavaScript tanto na parte web quanto mobile :computer:
  <br/> :ok_hand: &nbsp; Buscando criar projetos Front-end
  <br/> :blush: &nbsp; Posso te ajudar com o básico apenas. (Mas se não souber pesquiso e te ajudo :wink:)
  <br/> :computer: &nbsp; Meus aprendizado: JavaScript (básico), Python (básico)
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Fut e um Netflix
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Fut, Ler e um Netflix
  <br/> :email: &nbsp; Entre em contato comigo: (https://www.linkedin.com/in/rodrigo-grzegorczyk-0046981ab/)
