@@ -6,7 +6,7 @@ https://github.com/RodrigoGrz
 Curto a programção porque com ela você pode criar o que quiser.
 Sou um estudante de JavaScript tanto na parte web quanto mobile :computer:
 
- :office:  &nbsp; Estou trabalhando com administração atualmente **ADM**
+ :office:  &nbsp; Estou trabalhando com **administração** atualmente
  <br/>:ok_hand: &nbsp; Buscando criar projetos Front-end
  <br/>:satisfied: Posso te ajudar com o básico apenas. (Mas se não souber pesquiso e te ajudo :wink:)
  <br/>:computer: &nbsp; Meus aprendizado: JavaScript (básico), Python (básico)
